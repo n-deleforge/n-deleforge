@@ -5,5 +5,5 @@ I'm a freelance web developper.
 
 You can contact me and find more informations about me on :
 
-- 🌍 My own [website](https://nicolas-deleforge.fr)
-- 🇱 My Linkedin [profile](https://www.linkedin.com/in/nicolasdeleforge/)
+- My own [website](https://nicolas-deleforge.fr) 🌍
+- My Linkedin [profile](https://www.linkedin.com/in/nicolasdeleforge/) 🇱
