@@ -7,3 +7,4 @@ You can contact me and find more informations about me on :
 
 - My own [website](https://nicolas-deleforge.fr) 🌍
 - My Linkedin [profile](https://www.linkedin.com/in/nicolasdeleforge/) 🇱
+- Or here on GitHub, in looking at my projects just below !
